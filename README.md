@@ -37,14 +37,3 @@ This system has the following features.
 
 ### Employee View
 ![User View](https://user-images.githubusercontent.com/39452187/126055062-255e3c29-a987-43c7-b3c5-638a2946f0e4.gif)
-
-## Packages
-
-- AutoMapper
-- automapper.extensions.microsoft.dependencyinjection
-- microsoft.aspnetcore.diagnostics.entityframeworkcore
-- microsoft.aspnetcore.identity.entityframeworkcore
-- microsoft.aspnetcore.identity.UI
-- microsoft.entityframeworkcore.sqlserver
-- microsoft.entityframeworkcore.tools
-- microsoft.visualstudio.web.codegeneration.design
